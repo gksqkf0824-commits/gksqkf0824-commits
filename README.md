@@ -6,7 +6,7 @@
 <h2 align="center">👋 Hi, I'm Soyun</h2>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=520&lines=Statistics+to+AI+Engineer;Spring+Boot+%26+FastAPI+Backend;On-Device+AI+with+YOLO+%26+TFLite;Building+for+Hyundai+AutoEver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=520&lines=Statistics+to+AI+Engineer;Spring+Boot+%26+FastAPI+Backend;On-Device+AI+with+YOLO+%26+TFLite;Turning+Data+into+Products" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gksqkf0824-commits&label=Profile%20views&color=ff6ec4&style=flat" alt="views" />
@@ -22,7 +22,7 @@
 <h3>🎯 Profile</h3>
 🎓 <b>Education:</b> Gyeonggi Univ. Applied Statistics (4th yr)<br/>
 🛠 <b>Focus:</b> Backend · On-Device AI · Applied Stats<br/>
-🚀 <b>Goal:</b> AI Engineer @ Hyundai AutoEver<br/>
+🚀 <b>Goal:</b> Backend & AI Engineer<br/>
 📍 <b>Location:</b> Anyang, South Korea
 </td>
 <td valign="top" width="50%">
@@ -93,6 +93,31 @@ AI 기반 카셰어링 차량 내부 오염 감지 시스템<br/><br/>
 </table>
 ---
  
+## 🏆 Awards
+ 
+<table>
+<tr>
+<td valign="top">
+🥇 <b>경기대학교 심화캡스톤디자인 우수상</b> — On-gil (온길)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>시각장애인용 온디바이스 버스 안내 시스템</sub><br/><br/>
+📄 <b>2026 한국정보기술학회(KIIT) 대학생 논문 우수상</b><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<sub>On-Device YOLOv11n 기반 실시간 객체 인식 연구</sub>
+</td>
+</tr>
+</table>
+---
+ 
+## 📜 Certifications
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/ADsP-데이터분석_준전문가-ff6ec4?style=for-the-badge&labelColor=c850c0" />
+  <img src="https://img.shields.io/badge/사회조사분석사_2급-ff6ec4?style=for-the-badge&labelColor=c850c0" />
+  <br/>
+  <img src="https://img.shields.io/badge/컴퓨터활용능력_2급-ff6ec4?style=for-the-badge&labelColor=c850c0" />
+  <img src="https://img.shields.io/badge/정보처리기사-필기_합격_·_실기_예정-ffb3d9?style=for-the-badge&labelColor=c850c0" />
+</p>
+---
+ 
 ## 📊 GitHub Stats
  
 <p align="center">
@@ -100,7 +125,7 @@ AI 기반 카셰어링 차량 내부 오염 감지 시스템<br/><br/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksqkf0824-commits&layout=compact&theme=radical&hide_border=true&bg_color=1a0a1a&title_color=ff6ec4&text_color=ffd6f5" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gksqkf0824-commits&theme=radical&hide_border=true&background=1a0a1a&ring=ff6ec4&fire=ff9a9e&currStreakLabel=ff6ec4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gksqkf0824-commits&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 ---
  
