@@ -1,6 +1,6 @@
 <!-- ===== 상단 배너 ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:ff6ec4,100:c850c0&height=230&section=header&text=Soyun%20Kwon&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20On-Device%20AI%20Engineer&descSize=22&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:ff6ec4,100:c850c0&height=230&section=header&text=Soyun%20Kwon&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20AI%20Engineer&descSize=22&descAlignY=60" />
 </p>
 <!-- ===== 인사 + 타이핑 ===== -->
 <h2 align="center">👋 Hi, I'm Soyun</h2>
@@ -28,7 +28,7 @@
 <td valign="top" width="50%">
 <h3>💻 Dev Environment</h3>
 ⚙️ <b>Backend:</b> Spring Boot · FastAPI<br/>
-🤖 <b>On-Device AI:</b> TFLite · YOLO · ByteTracker<br/>
+🤖 <b>AI:</b> TFLite · YOLO · ByteTracker<br/>
 📊 <b>Stats:</b> Mathematical Statistics · Modeling<br/>
 🔥 <b>Now Building:</b> Smart FMS · DAMAGE
 </td>
