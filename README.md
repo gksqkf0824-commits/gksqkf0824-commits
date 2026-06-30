@@ -1,16 +1,110 @@
-## Hi there 👋
-
-<!--
-**gksqkf0824-commits/gksqkf0824-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ===== 상단 배너 ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:ff6ec4,100:c850c0&height=230&section=header&text=Soyun%20Kwon&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20On-Device%20AI%20Engineer&descSize=22&descAlignY=60" />
+</p>
+<!-- ===== 인사 + 타이핑 ===== -->
+<h2 align="center">👋 Hi, I'm Soyun</h2>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=520&lines=Statistics+%E2%86%92+AI+Engineer;Spring+Boot+%26+FastAPI+Backend;On-Device+AI+with+YOLO+%26+TFLite;Building+for+Hyundai+AutoEver" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=ff6ec4&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=c850c0" alt="followers" />
+</p>
+---
+ 
+## ⚡ Quick Intro
+ 
+<table>
+<tr>
+<td valign="top" width="50%">
+### 🎯 Profile
+- 🎓 **Education:** Gyeonggi Univ. Applied Statistics (4th yr)
+- 🛠 **Focus:** Backend · On-Device AI · Applied Stats
+- 🚀 **Goal:** AI Engineer @ Hyundai AutoEver
+- 📍 **Location:** Anyang, South Korea
+</td>
+<td valign="top" width="50%">
+### 💻 Dev Environment
+- ⚙️ **Backend:** Spring Boot · FastAPI
+- 🤖 **On-Device AI:** TFLite · YOLO · ByteTracker
+- 📊 **Stats:** Mathematical Statistics · Modeling
+- 🔥 **Now Building:** Smart FMS · DAMAGE
+</td>
+</tr>
+</table>
+---
+ 
+## 🚀 Live Tech Stack
+ 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+---
+ 
+## 📌 Featured Projects
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+#### 🚗 Smart FMS
+> AI 기반 카셰어링 차량 내부 오염 감지 시스템
+- Segmentation으로 오염 면적 비율 산출
+- 배차 차단 · 패널티 · 세차 API 자동 트리거
+- 6인 팀 리딩 · Slack 알림 연동
+</td>
+<td width="50%" valign="top">
+#### 📱 DAMAGE
+> 투두 + 일상 기록 + 핀터레스트형 이미지 공유 앱
+- React Native (Expo) + Spring Boot
+- PostgreSQL · 디자인 시스템 적용
+- Phase 1 완료 (CRUD · SQLite 영속화)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+#### 🚌 On-gil (온길)
+> 시각장애인용 온디바이스 버스 안내 시스템
+- YOLOv11n INT8 양자화 + ByteTracker
+- ML Kit OCR · TTS/햅틱 피드백
+- 추론 속도 약 6.7배 개선 · KIIT 학회 발표
+</td>
+<td width="50%" valign="top">
+#### 🧠 Deepfake Detection
+> 딥페이크 탐지 서비스
+- 정확도 약 19.4%p 개선
+- Object Detection mAP 약 332% 개선 경험
+</td>
+</tr>
+</table>
+---
+ 
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a0a1a&title_color=ff6ec4&icon_color=ff9a9e&text_color=ffd6f5" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1a0a1a&title_color=ff6ec4&text_color=ffd6f5" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=1a0a1a&ring=ff6ec4&fire=ff9a9e&currStreakLabel=ff6ec4" />
+</p>
+---
+ 
+<!-- ===== 하단 배너 ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c850c0,50:ff6ec4,100:ff9a9e&height=120&section=footer" />
+</p>
