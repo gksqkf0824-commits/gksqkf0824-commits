@@ -16,7 +16,7 @@
  
 ## ⚡ Quick Intro
  
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 <h3>🎯 Profile</h3>
@@ -58,7 +58,7 @@
  
 ## 📌 Featured Projects
  
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h4>🚗 Smart FMS</h4>
@@ -95,7 +95,7 @@ AI 기반 카셰어링 차량 내부 오염 감지 시스템<br/><br/>
  
 ## 🏆 Awards
  
-<table>
+<table width="100%">
 <tr>
 <td valign="top">
 🥇 <b>경기대학교 심화캡스톤디자인 우수상</b> — On-gil (온길)<br/>
@@ -109,20 +109,20 @@ AI 기반 카셰어링 차량 내부 오염 감지 시스템<br/><br/>
  
 ## 📜 Certifications
  
-<p align="center">
-  <img src="https://img.shields.io/badge/ADsP-데이터분석_준전문가-ff6ec4?style=for-the-badge&labelColor=c850c0" />
-  <img src="https://img.shields.io/badge/사회조사분석사_2급-ff6ec4?style=for-the-badge&labelColor=c850c0" />
-  <br/>
-  <img src="https://img.shields.io/badge/컴퓨터활용능력_2급-ff6ec4?style=for-the-badge&labelColor=c850c0" />
-  <img src="https://img.shields.io/badge/정보처리기사-필기_합격_·_실기_예정-ffb3d9?style=for-the-badge&labelColor=c850c0" />
-</p>
+| 자격증 | 상태 |
+|:--|:--|
+| **ADsP** (데이터분석 준전문가) | ✅ 취득 |
+| **사회조사분석사** | ✅ 취득 |
+| **컴퓨터활용능력 2급** | ✅ 취득 |
+| **정보처리기사** | 📝 필기 합격 · 실기 예정 |
+ 
 ---
  
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gksqkf0824-commits&show_icons=true&theme=radical&hide_border=true&bg_color=1a0a1a&title_color=ff6ec4&icon_color=ff9a9e&text_color=ffd6f5" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksqkf0824-commits&layout=compact&theme=radical&hide_border=true&bg_color=1a0a1a&title_color=ff6ec4&text_color=ffd6f5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gksqkf0824-commits&show_icons=true&theme=radical&hide_border=true&bg_color=1a0a1a&title_color=ff6ec4&icon_color=ff9a9e&text_color=ffd6f5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gksqkf0824-commits&layout=compact&theme=radical&hide_border=true&bg_color=1a0a1a&title_color=ff6ec4&text_color=ffd6f5" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gksqkf0824-commits&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
